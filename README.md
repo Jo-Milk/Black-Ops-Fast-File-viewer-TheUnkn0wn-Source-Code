@@ -17,6 +17,7 @@ So unpacking was simple step through the code until the dll is unpacked dump if 
 
 Tool I used 
 IDA OLLydbg peid PE Explorer ImportREC OllyDumpEx dnspy
+Visual Studio 2010
 
 Anyways give the guy credits 
 
