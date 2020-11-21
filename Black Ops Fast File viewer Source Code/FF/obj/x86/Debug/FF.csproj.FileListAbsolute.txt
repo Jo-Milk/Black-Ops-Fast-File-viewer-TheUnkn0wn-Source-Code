@@ -1,0 +1,12 @@
+C:\Users\Jo-Milk\Desktop\FF\FF\obj\x86\Debug\FF.csprojResolveAssemblyReference.cache
+C:\Users\Jo-Milk\Desktop\FF\FF\bin\Debug\FF.exe
+C:\Users\Jo-Milk\Desktop\FF\FF\bin\Debug\FF.pdb
+C:\Users\Jo-Milk\Desktop\FF\FF\obj\x86\Debug\FF.exe
+C:\Users\Jo-Milk\Desktop\FF\FF\obj\x86\Debug\FF.pdb
+C:\Users\Jo-Milk\Desktop\FF\FF\bin\Debug\Ionic.Zlib.dll
+C:\Users\Jo-Milk\Desktop\Black Ops Fast File viewer Source Code\FF\obj\x86\Debug\FF.exe
+C:\Users\Jo-Milk\Desktop\Black Ops Fast File viewer Source Code\FF\obj\x86\Debug\FF.pdb
+C:\Users\Jo-Milk\Desktop\Black Ops Fast File viewer Source Code\FF\bin\Debug\FF.exe
+C:\Users\Jo-Milk\Desktop\Black Ops Fast File viewer Source Code\FF\bin\Debug\FF.pdb
+C:\Users\Jo-Milk\Desktop\Black Ops Fast File viewer Source Code\FF\bin\Debug\Ionic.Zlib.dll
+C:\Users\Jo-Milk\Desktop\Black Ops Fast File viewer Source Code\FF\obj\x86\Debug\FF.csprojResolveAssemblyReference.cache
