@@ -1,7 +1,7 @@
 # Black-Ops-Fast-File-viewer-TheUnkn0wn-Source-Code
 Bo1 FF viewer Source code From [TheUnkn0wn] by Jo-Milk for PS3 Xbox 
 
-Disclaimer: This Source Code is for educational purposes only. It hasn't been fully explored and it had a packed .dll runing anything from that source is your own risk.
+Disclaimer: This Source Code is for educational purposes only. It hasn't been fully explored and it had a packed .dll runing anything from that source is at your own risk.
 
 Please give credits to Unknown if you use his code. I was doing a FF viewer but I had an issue re-encrypting the zones. 
 I wanted to use his code to import\export zones to save time. If modding on ps3\Xbox was alive I would have ask for his source. 
